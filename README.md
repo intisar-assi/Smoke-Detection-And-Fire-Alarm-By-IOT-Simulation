@@ -6,11 +6,11 @@ A smart fire safety solution integrating wireless sensors, edge computing, and c
 
 ## 📖 Overview
 
-* **Smoke Detector**: Threshold **0.5 ppm** — placed in bedrooms, living room.
+* **Smoke Detector**: Threshold **0.5 ppm** — placed in livingroom . Threshold **1.5 ppm**- placed in Bedroom
 * **CO Detector**: Threshold **0.5 ppm** — placed in living rooms.
 * **Fire Monitor**: Installed in kitchens.
 * **Fire Sprinkler**: Activates automatically when fire is detected.
-* **Automatic Window**: Opens when smoke or CO exceeds **1.5 ppm** and closes when below **0.5 ppm**.
+* **Automatic Window**: Opens when smoke or CO in living room exceeds **1.5 ppm** and closes when below **0.5 ppm**.
 
 ---
 
