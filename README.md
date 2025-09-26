@@ -58,10 +58,8 @@ A smart fire safety solution integrating wireless sensors, edge computing, and c
 ## 🚀 How It Works
 
 1. Sensors detect smoke, CO, or fire
-2. Data sent via **MQTT** to server
-3. Server triggers actuators
-4. System responds automatically
-5. Alerts sent to dashboard and email
+2. Server triggers actuators
+3. System responds automatically
 
 ---
 
